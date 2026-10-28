@@ -22,7 +22,10 @@ design/                      các màn hình (mỗi file .dc.html là 1 bảng v
   QuanTri.dc.html            Quản trị
   HuongDan.dc.html           Hướng dẫn
 tests/                       kiểm tra logic số liệu (Node.js)
+docs/                        tài liệu nghiệp vụ đã thống nhất (đọc docs/README.md trước)
 ```
+
+Đội lập trình phát triển dựa trên ba nguồn: **thiết kế** (`design/`), **SOW** của dự án, và **tài liệu nghiệp vụ** (`docs/`). Khi thiết kế và tài liệu khác nhau, làm theo tài liệu (danh sách chỗ lệch ở `docs/10-diem-cho-chot.md`).
 
 ## Định dạng file
 
