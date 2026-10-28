@@ -1,0 +1,175 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-10-17T08:30:00Z"
+ },
+ "title": "Phần mềm hỗ trợ công việc",
+ "launch": {
+  "view": "canvas"
+ },
+ "pages": [],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 900,
+   "title": "1 · Đăng nhập",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "KhachHang.dc.html": {
+   "x": 1520,
+   "y": 0,
+   "w": 1440,
+   "h": 900,
+   "title": "2 · Công ty của tôi (tổng quan tất cả công ty)",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "Khach_TongQuan.dc.html": {
+   "x": 0,
+   "y": 1420,
+   "w": 1440,
+   "h": 1120,
+   "title": "3 · Tổng quan một công ty",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "HoaDon.dc.html": {
+   "x": 0,
+   "y": 2840,
+   "w": 1440,
+   "h": 900,
+   "title": "4 · Một công ty · Hóa đơn (kho hóa đơn)",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "ToKhaiDaNop.dc.html": {
+   "x": 0,
+   "y": 4200,
+   "w": 1440,
+   "h": 1180,
+   "title": "5 · Một công ty · Tờ khai đã nộp",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "ToKhai.dc.html": {
+   "x": 1520,
+   "y": 4200,
+   "w": 1440,
+   "h": 900,
+   "title": "6 · Tờ khai GTGT · Cty Thảo Vy (khai quý cả 3 năm)",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "NganHang.dc.html": {
+   "x": 0,
+   "y": 6570,
+   "w": 1440,
+   "h": 900,
+   "title": "7 · Một công ty · Ngân hàng",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "CongNo.dc.html": {
+   "x": 1520,
+   "y": 6570,
+   "w": 1440,
+   "h": 1180,
+   "title": "8 · Một công ty · Công nợ",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "DanhMuc.dc.html": {
+   "x": 0,
+   "y": 7970,
+   "w": 1440,
+   "h": 1180,
+   "title": "9 · Một công ty · Danh mục",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "Khach_HoSo.dc.html": {
+   "x": 1520,
+   "y": 7970,
+   "w": 1440,
+   "h": 1400,
+   "title": "10 · Một công ty · Hồ sơ & tài khoản",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "QuanTri.dc.html": {
+   "x": 0,
+   "y": 9270,
+   "w": 1440,
+   "h": 1180,
+   "title": "11 · Quản trị · nhân viên và phân quyền",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "HuongDan.dc.html": {
+   "x": 1520,
+   "y": 9270,
+   "w": 1440,
+   "h": 900,
+   "title": "12 · Hướng dẫn",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "Khach_CanhBao.dc.html": {
+   "x": 1520,
+   "y": 1420,
+   "w": 1440,
+   "h": 1300,
+   "title": "3b · Một công ty · Kiểm tra & cảnh báo",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "ToKhaiThang.dc.html": {
+   "x": 3040,
+   "y": 4200,
+   "w": 1440,
+   "h": 900,
+   "title": "6b · Tờ khai GTGT · [Khách hàng C] (2024 khai quý → 2025–2026 khai tháng)",
+   "expand": "fill",
+   "is_interactive": true
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "KhachHang.dc.html",
+  "Khach_TongQuan.dc.html",
+  "Khach_CanhBao.dc.html",
+  "HoaDon.dc.html",
+  "ToKhaiDaNop.dc.html",
+  "ToKhai.dc.html",
+  "ToKhaiThang.dc.html",
+  "NganHang.dc.html",
+  "CongNo.dc.html",
+  "DanhMuc.dc.html",
+  "Khach_HoSo.dc.html",
+  "QuanTri.dc.html",
+  "HuongDan.dc.html"
+ ],
+ "notes": {
+  "tieude": {
+   "x": 0,
+   "y": -300,
+   "text": "Phần mềm hỗ trợ công việc — các màn hình chính",
+   "kind": "title1",
+   "maxW": 2960
+  },
+  "quytac_cty": {
+   "x": 3040,
+   "y": 0,
+   "w": 560,
+   "maxH": 520,
+   "size": "m",
+   "fill": "orange",
+   "text": "QUY TẮC CHỌN CÔNG TY (phần mềm thật)\n\n• Chọn Công ty ở thanh trên cùng = đổi công ty cho TOÀN BỘ phần mềm: Tổng quan, Kiểm tra & cảnh báo, Hóa đơn, Tờ khai GTGT, Tờ khai đã nộp, Ngân hàng, Công nợ, Danh mục, Hồ sơ đều hiện dữ liệu của công ty vừa chọn.\n• Phần mềm nhớ công ty đang làm cho lần mở sau.\n• Tờ khai GTGT dùng MỘT màn chung cho mọi công ty. Kỳ khai (tháng / quý) lưu theo TỪNG NĂM trong hồ sơ công ty; chọn năm nào thì màn tự hiện 12 tháng hoặc 4 quý của năm đó. Năm đổi kỳ khai có nhãn \"Đổi từ khai … sang khai …\".\n• Màn 6 và 6b là cùng một màn, chỉ khác công ty mẫu: 6 = Cty Thảo Vy (quý cả 3 năm), 6b = [Khách hàng C] (2024 quý, 2025–2026 tháng).\n\nTRONG BẢN THIẾT KẾ: mỗi màn là một bản vẽ riêng nên không truyền được lựa chọn sang màn khác. Số liệu mẫu các màn đang là Cty Thảo Vy (khai quý); riêng màn 6b là [Khách hàng C]."
+  }
+ },
+ "designSystems": []
+}
